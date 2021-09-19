@@ -1,0 +1,21 @@
+.NotFound__container {
+  width: 100%;
+  padding: 2rem 0;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  min-height: 94vh;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.NotFound__message {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+}
+
+.NotFound__conf-logo {
+  margin-bottom: 2rem;
+}

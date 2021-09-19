@@ -1,0 +1,30 @@
+.BadgesList ul>li {
+  margin-bottom: 1rem;
+}
+
+.BadgesList__item {
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 4px 4px 4px 4px;
+  overflow: hidden;
+  margin-bottom: 1%;
+  height: 100px;
+}
+
+.BadgesList__item-section {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 1rem 0 10px 10px;
+}
+
+.BadgesList__item-section > p{
+    margin-bottom: 0px;
+  }
+
+.BadgesList__item-avatar {
+  border-radius: 50%;
+  margin-right: 1rem;
+  width: 70px;
+  height: 70px;
+}

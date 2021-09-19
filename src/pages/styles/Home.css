@@ -1,0 +1,27 @@
+.Home__container {
+  width: 100%;
+  padding: 2rem 0;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  min-height: 94vh;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.Home__newBadge {
+    align-items: center;
+}
+
+.Home__newBadge > div > p{
+    font-size: 20px;
+}
+
+.Home__conf-logo {
+    margin-bottom: 2rem; 
+}
+
+.Home__btn-link {
+    display: flex;
+    justify-content: center;
+}
